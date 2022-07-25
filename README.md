@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **a trivia app**
 
-- 🌱 I’m currently learning **Sass, bootstrap.**
+- 🌱 I’m currently learning **Sass, bootstrap, and more advanced React concepts.**
 
 - 👨‍💻 All of my projects are available at [https://www.jamesdryden.dev](https://www.jamesdryden.dev)
 
