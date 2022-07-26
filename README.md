@@ -1,6 +1,6 @@
 ![](https://github.com/TechNerdJames/TechNerdJames/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm James Dryden</h1>
-<h3 align="center">A passionate Frontend Web Developer based in Ontario, Canada. I have an interest in creating and implementing successful frontend web applications.</h3>
+<h3 align="center">A passionate Frontend Software Developer based in Ontario, Canada. I have an interest in creating and implementing successful frontend web applications.</h3>
 
 - 🔭 I’m currently working on **a trivia app**
 
